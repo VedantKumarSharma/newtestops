@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F299B059430ED0D7E6A5CFD2E5F50347",
+  "keywordClasses": [
+    {
+      "name": "pack.login",
+      "keywordMethods": [
+        {
+          "name": "loginin",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
